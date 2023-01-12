@@ -1,0 +1,13 @@
+
+public class Program {
+	// hàm main: điểm bắt đầu để chạy chương trình
+	public static void main(String[] args) {
+		// Ctrl + Shift + F
+		// Ctrl + S
+		int age = 30;
+		String name = "Nguyễn Khương";
+					System.out.println("Hello VTI");
+		System.out.println("My Name: " + name);
+						System.out.println("My Age: " + age);
+	}	
+}

@@ -1,0 +1,7 @@
+
+public class Program {
+	//hàm main: điểm bắt đầu để chạy chương trình
+public static void main(String[] args) {
+	System.out.println("Hello VTI");
+}
+}

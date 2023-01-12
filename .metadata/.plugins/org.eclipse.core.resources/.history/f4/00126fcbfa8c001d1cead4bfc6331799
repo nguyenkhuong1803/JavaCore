@@ -1,0 +1,9 @@
+package com.vti.entity;
+
+public class Account {
+public int id;
+public String email;
+public String username;
+public String fullname;
+
+}
